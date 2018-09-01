@@ -1,0 +1,18 @@
+(dp0
+S'Daniel'
+p1
+S'Stupid okay-ish little annoying snail.'
+p2
+sS'Sean'
+p3
+S'Slimey grimey fat pink naked mole rat.'
+p4
+sS'Sophia'
+p5
+S'Unicorn! Awesome! Amazing! A+! A VIP!'
+p6
+sS'Jerry'
+p7
+S'Poop. Pee. Toilet. Stinky. Overweight.'
+p8
+s.
